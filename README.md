@@ -1,7 +1,6 @@
 # groovy-scripts
 
-## put Groovy Scripts in path
-##### under Ubuntu (Elementary OS)
+##### put Groovy Scripts in path under Ubuntu (Elementary OS)
 
 * scripts written in groovy
 * made the startable by calling their name in terminal
