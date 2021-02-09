@@ -1,6 +1,6 @@
 #!/bin/bash
 // 2>/dev/null; OPTS=""
-// 2>/dev/null; exec groovy $OPTS "$0" "$@"; exit $?
+// 2>/dev/null; exec groovyclient $OPTS "$0" "$@"; exit $?
 
 oracleSite = "https://docs.oracle.com/javase/specs/"
 println """

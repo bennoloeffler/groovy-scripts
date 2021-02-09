@@ -1,5 +1,5 @@
 #!/bin/bash
-// 2>/dev/null; exec groovy "$0" "$@"; exit $?
+// 2>/dev/null; exec groovyclient "$0" "$@"; exit $?
 
 
 println 'Hello'
